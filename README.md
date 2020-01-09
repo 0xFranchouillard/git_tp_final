@@ -39,7 +39,7 @@ Dans ce second exercice, vous allez modifier les lignes qui suivent dans le READ
 Noms des étudiants : 
 * GARVENES Cédric
 * CHAMPION Cyrille
-* SALEX Julian
+* SALEIX Julian
 
 Date du jour : 09/01/2020
 
